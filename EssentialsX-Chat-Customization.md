@@ -12,8 +12,9 @@ This project highlights my edits and customization of player chat formats to imp
     - Enhanced player visibility and distinction in chat
     - User-friendly interface while maintaining scalable configuration for multiple roles
 
-# BEFORE: Default chat format (simplified)
 ```yaml
+# BEFORE: Default chat format (simplified)
+
 format: '&e{DISPLAYNAME}: &f{MESSAGE}'
 
 # Alternative format
