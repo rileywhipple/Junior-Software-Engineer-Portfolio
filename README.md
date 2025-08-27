@@ -58,12 +58,5 @@ Edited chat formats for multiple user roles to improve readability, role distinc
 
 ---
 
-## **Additional Skills**
-- **Programming Languages & Frameworks:** Java (server config & plugin scripting), Python & Flask (small scripts and backend experiments), HTML/CSS (dashboards & interfaces)  
-- **Network & Server Integration:** Multi-server network management, MySQL database configuration, plugin and placeholder customization  
-- Strong problem-solving, persistence, and growth mindset
-
----
-
 ## **Portfolio Notes**
 These projects show applied programming and backend experience, highlighting skills that are transferable to professional software engineering roles. Full project code, documentation, and screenshots are available in this repository.
