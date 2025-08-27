@@ -56,6 +56,9 @@ Edited chat formats for multiple user roles to improve readability, role distinc
 **Screenshot:**  
 ![EssentialsX Chat Customization](EssentialsX-Chat-Customization.png)
 
+![EssentialsX Chat Customization](EssentialsX-MOTD-Customization.png)
+
+
 ---
 
 ## **Portfolio Notes**
