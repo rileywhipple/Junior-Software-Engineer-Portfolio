@@ -12,7 +12,8 @@ The AFTER section shows all edits I made to the default configuration. Highlight
 - Backend-friendly, scalable configuration for multiple servers and roles
 
 ```yaml
-# Default configuration, no custom headers, footers, or scoreboards
+# BEFORE: Default configuration, no custom headers, footers, or scoreboards
+
 header-footer:
   enabled: false
 
