@@ -39,6 +39,9 @@ Customized the TAB plugin to display dynamic scoreboards, tab headers/footers, a
 **Screenshot:**  
 ![TAB Plugin Customization](TAB-Plugin-Customization.png)
 
+**Screenshot:**  
+![TAB Custom Displayname](TAB-Custom-Displayname.png)
+
 ---
 
 ### 3. EssentialsX Chat Customization
