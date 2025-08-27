@@ -55,6 +55,7 @@ permissions:
     - bungeecord.command.perms
 
 # AFTER: My Customized Configuration
+
 servers:
   Hub:
     motd: '&aTeacher Riley''s Server &f[1.21-1.21.8] &bARCADE &8| &6SURVIVAL &8| &dCREATIVE &8| &cKITPVP'
