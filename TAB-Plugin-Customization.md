@@ -15,18 +15,44 @@ The AFTER section shows all edits I made to the default configuration. Highlight
 # BEFORE: Default configuration, no custom headers, footers, or scoreboards
 
 header-footer:
-  enabled: false
+  enabled: true
+  header:
+    - "<#FFFFFF>&m                                                </#FFFF00>"
+    - "&3&lServer name"
+    - "&7&l>> %animation:Welcome%&3 &l%player%&7&l! &7&l<<"
+    - "&7Online players: &f%online%"
+    - "&6Online staff: &e%staffonline%"
+    - ""
+  footer:
+    - "%animation:time%"
+    - "&2Ping: %ping%"
+    - "&7&l Used memory: %memory-used% MB / %memory-max% MB"
+    - ""
+    - "&7Visit our webpage %animation:web%"
+    - "<#FFFFFF>&m                                                </#FFFF00>"
 
-scoreboards:
-  default:
-    title: 'Default'
-    lines:
-      - '{DISPLAYNAME}: {MESSAGE}'
+  scoreboards:
+    scoreboard-1.20.3+:
+      title: "<#E0B11E>MyServer</#FF0000>"
+      display-condition: "%player-version-id%>=765;%bedrock%=false" # Only display it to players using 1.20.3+ AND NOT bedrock edition
+      lines:
+        - "&7%date%"
+        - "%animation:MyAnimation1%"
+        - "&6Online:"
+        - "* &eOnline&7:||%online%"
+        - "* &eCurrent World&7:||%worldonline%"
+        - "* &eStaff&7:||%staffonline%"
+        - ""
+        - "&6Personal Info:"
+        - "* &bRank&7:||%group%"
+        - "* &bPing&7:||%ping%&8ms"
+        - "* &bWorld&7:||%world%"
+        - "%animation:MyAnimation1%"
 
 # Default tab prefixes
-Default:
-  tabprefix: '&7'
-  tagprefix: '&7'
+Player:
+  tabprefix: "&0&l[&7&lPlayer&0&l] &3"
+  tagprefix: "&2&lPlayer &3"
 
 # AFTER: My Customized Configuration
 
