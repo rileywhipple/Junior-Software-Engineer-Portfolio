@@ -51,7 +51,7 @@ Edited chat formats for multiple user roles to improve readability, role distinc
 - Attention to user experience  
 
 **Screenshot:**  
-![Customized Chat Example](./screenshots/chat_customization.png)
+![EssentialsX Chat Customization](EssentialsX-Chat-Customization.png)
 
 ---
 
