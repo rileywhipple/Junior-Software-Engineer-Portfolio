@@ -25,8 +25,6 @@ Managed a multi-server Minecraft network with a BungeeCord proxy, connecting six
 
 ![Custom Server GUI](Custom-Server-GUI.png)
 
-
-
 ---
 
 ### 2. TAB Plugin Customization & Scoreboards
