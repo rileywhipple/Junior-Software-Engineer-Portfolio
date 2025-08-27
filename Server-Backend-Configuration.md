@@ -19,6 +19,7 @@ This project highlights my edits and configuration enhancements on a default Bun
 
 ```yaml
 # BEFORE: Default auto-generated config (simplified)
+
 servers:
   lobby:
     motd: '&1Just another BungeeCord - Forced Host'
