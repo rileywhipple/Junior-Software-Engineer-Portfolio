@@ -15,11 +15,6 @@ Managed a multi-server Minecraft network with a BungeeCord proxy, connecting six
 - MySQL database integration  
 - Troubleshooting & iterative problem-solving  
 
-**Highlights:**  
-- BEFORE/AFTER server configuration comparisons  
-- Network scalability & cross-server functionality  
-- Custom MOTDs, max players, and tab sizes
-
 **Screenshots:**
 ![BungeeCord Network Dashboard](BungeeCord-Server-List.png)
 
