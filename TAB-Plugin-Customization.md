@@ -49,7 +49,7 @@ header-footer:
         - "* &bWorld&7:||%world%"
         - "%animation:MyAnimation1%"
 
-# Default tab prefixes
+# Default group prefixes (server tab & displaynames)
 Player:
   tabprefix: "&0&l[&7&lPlayer&0&l] &3"
   tagprefix: "&2&lPlayer &3"
@@ -110,3 +110,32 @@ scoreboards:
       - '&fDeaths: &a%statistic_deaths%'
       - '&fServer: &a%online%'
       - '&fNetwork: &a%bungee_total%'
+
+# Custom group prefixes (server tab & displaynames)
+Owner:
+  tabprefix: '%prisonranksx_currentrank_displayname% &b[Owner] &a'
+  tagprefix: '%prisonranksx_currentrank_displayname% &b[Owner] &a'
+Admin:
+  tabprefix: '%prisonranksx_currentrank_displayname% &c[Admin] &4'
+  tagprefix: '%prisonranksx_currentrank_displayname% &c[Admin] &4'
+Trusted:
+  tabprefix: '%prisonranksx_currentrank_displayname% &3[Trusted] &b'
+  tagprefix: '%prisonranksx_currentrank_displayname% &3[Trusted] &b'
+Player_Purple:
+  tabprefix: '%prisonranksx_currentrank_displayname% &5[Player] &d'
+  tagprefix: '%prisonranksx_currentrank_displayname% &5[Player] &d'
+Player_Yellow:
+  tabprefix: '%prisonranksx_currentrank_displayname% &6[Player] &e'
+  tagprefix: '%prisonranksx_currentrank_displayname% &6[Player] &e'
+Player_Green:
+  tabprefix: '%prisonranksx_currentrank_displayname% &2[Player] &a'
+  tagprefix: '%prisonranksx_currentrank_displayname% &2[Player] &a'
+Player_Red:
+  tabprefix: '%prisonranksx_currentrank_displayname% &4[Player] &c'
+  tagprefix: '%prisonranksx_currentrank_displayname% &4[Player] &c'
+Player_Blue:
+  tabprefix: '%prisonranksx_currentrank_displayname% &3[Player] &b'
+  tagprefix: '%prisonranksx_currentrank_displayname% &3[Player] &b'
+Default:
+  tabprefix: '%prisonranksx_currentrank_displayname% &7'
+  tagprefix: '%prisonranksx_currentrank_displayname% &7'
