@@ -27,6 +27,8 @@ Default:
   tabprefix: '&7'
   tagprefix: '&7'
 
+# AFTER: My Customized Configuration
+
 # Custom Headers & Footers
 header-footer:
   enabled: true
