@@ -37,7 +37,7 @@ Customized the TAB plugin to display dynamic scoreboards, tab headers/footers, a
 - Scalable system design  
 
 **Screenshot:**  
-![Custom TAB Scoreboard](./screenshots/tab_scoreboard.png)
+![TAB Plugin Customization](TAB-Plugin-Customization.png)
 
 ---
 
