@@ -1,3 +1,35 @@
+Portfolio Showcase: EssentialsX Chat Customization
+
+Demonstrates applied backend and user-interface skills using the EssentialsX Minecraft plugin.
+This project highlights my edits and customization of player chat formats to improve readability, role visibility, and overall in-game experience.
+
+Notes
+
+The AFTER section shows all edits I made to the default configuration. Highlights include:
+
+Network-friendly chat configuration for backend plugin integration
+
+Custom group chat formats with role-specific colors and prefixes
+
+Enhanced player visibility and distinction in chat
+
+User-friendly interface while maintaining scalable configuration for multiple roles
+
+# BEFORE: Default chat format (simplified)
+format: '&e{DISPLAYNAME}: &f{MESSAGE}'
+
+# Alternative format
+# format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
+
+# Group-formats not customized
+group-formats:
+  Default: '{DISPLAYNAME}: {MESSAGE}'
+
+# AFTER: My Customized Configuration
+
+# Default chat format
+format: '&e{DISPLAYNAME}: &f{MESSAGE}'
+
 # Custom group chat formats
 group-formats:
   Default:       '&8| &7Player &8| &7{DISPLAYNAME} &8» &f{MESSAGE}'
