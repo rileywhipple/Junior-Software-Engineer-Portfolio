@@ -20,8 +20,10 @@ Managed a multi-server Minecraft network with a BungeeCord proxy, connecting six
 - Network scalability & cross-server functionality  
 - Custom MOTDs, max players, and tab sizes
 
-  **Screenshot:**  
+  **Screenshots:**  
 ![BungeeCord Network Dashboard](BungeeCord-Server-List.png)
+
+![Custom Server GUI](Custom-Server-GUI.png)
 
 
 ---
@@ -36,10 +38,9 @@ Customized the TAB plugin to display dynamic scoreboards, tab headers/footers, a
 - Role-based customization  
 - Scalable system design  
 
-**Screenshot:**  
+**Screenshots:**  
 ![TAB Plugin Customization](TAB-Plugin-Customization.png)
 
-**Screenshot:**  
 ![TAB Custom Displayname](TAB-Custom-Displayname.png)
 
 ---
