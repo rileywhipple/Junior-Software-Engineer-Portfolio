@@ -15,14 +15,14 @@ This project highlights my edits and customization of player chat formats to imp
 ```yaml
 # BEFORE: Default chat format (simplified)
 
-format: '&e{DISPLAYNAME}: &f{MESSAGE}'
-
-# Alternative format
-# format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
+  format: '<{DISPLAYNAME}> {MESSAGE}'
+  #format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
+  #format: '&7{PREFIX}&r {DISPLAYNAME}&r &7{SUFFIX}&r: {MESSAGE}'
 
 # Group-formats not customized
-group-formats:
-  Default: '{DISPLAYNAME}: {MESSAGE}'
+  group-formats:
+  #  default: '{WORLDNAME} {DISPLAYNAME}&7:&r {MESSAGE}'
+  #  admins: '{WORLDNAME} &c[{GROUP}]&r {DISPLAYNAME}&7:&c {MESSAGE}'
 
 # AFTER: My Customized Configuration
 
