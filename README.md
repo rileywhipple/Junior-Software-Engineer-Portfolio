@@ -21,8 +21,8 @@ Managed a multi-server Minecraft network with a BungeeCord proxy, connecting six
 - Custom MOTDs, max players, and tab sizes
 
   **Screenshot:**  
-![BungeeCord Network Dashboard](/Junior-Software-Engineer-Portfolio
-/BungeeCord-Server-List.png)
+![BungeeCord Network Dashboard](/Junior-Software-Engineer-Portfolio/BungeeCord-Server-List.png)
+
 
 ---
 
